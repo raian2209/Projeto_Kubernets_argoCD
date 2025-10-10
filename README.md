@@ -1,5 +1,5 @@
 # Projeto_Kubernets_argoCD
-Claro! Aqui está o **mesmo texto original**, sem nenhuma modificação no conteúdo, apenas com **estruturação aprimorada em Markdown** (títulos, listas, blocos de código, e imagem formatada corretamente):
+
 
 ---
 
@@ -225,7 +225,7 @@ O restante do processo é exatamente o mesmo.
 
 ###  Etapa 6: Testando o Fluxo GitOps
 
-Para ver a “mágica” do GitOps em ação, faça uma alteração no repositório e observe o ArgoCD reagir.
+Faça uma alteração no repositório e observe o ArgoCD.
 
 ####  Altere o Manifesto
 
